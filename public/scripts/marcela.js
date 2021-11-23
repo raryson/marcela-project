@@ -9,11 +9,11 @@ function setup() {
   background(200);
   textFont('Courier', 100);
   textStyle(BOLD);
-  var str2='Vamo se beja';
+  var str2='Eu te amo';
   var strWidth2=textWidth(str2);
   text(str2, (width-strWidth2)/2, 300);
   textSize(200);
-  var str1='Alana';
+  var str1='Marcela';
   var strWidth1=textWidth(str1);
   text(str1, (width-strWidth1)/2, 200);
 

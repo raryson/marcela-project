@@ -1,4 +1,4 @@
-# :sparkles: alana-project :sparkles:
+# :sparkles: marcela-project :sparkles:
 
 ## Objetivo do projeto? :blue_heart:
 
